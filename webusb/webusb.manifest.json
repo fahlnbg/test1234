@@ -6,7 +6,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "xtouch.web.0.9.212.bin",
+          "path": "firmware.bin",
           "offset": 0
         }
       ]
